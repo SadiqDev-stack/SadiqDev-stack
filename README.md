@@ -27,6 +27,7 @@ A full-stack real-time communication platform designed to support modern social 
 Node.js • Express.js • MongoDB • Redis • Socket.io • JavaScript
 
 ---
+**https://snet-chat.vercel.app**
 
 ### 🔹 Arcane Security – Web Security Toolkit
 A security-focused platform designed to help developers analyze and improve web application security.
@@ -43,9 +44,10 @@ A security-focused platform designed to help developers analyze and improve web 
 Node.js • Express.js • Security Practices • JavaScript
 
 ---
+**https://arcane-security.vercel.app**
 
-### 🔹 SharpSub – Subscription Management System
-A platform for managing subscription-based services with automation and scalable backend logic.
+### 🔹 SadiqSharpSub – Subscription Management System
+A platform for managing subscription-based services with automation and scalable backend logic. this allow users to purchase daily services like data airtime and more at affordable prices
 
 **Key Features**
 
@@ -53,14 +55,17 @@ A platform for managing subscription-based services with automation and scalable
 - Payment and usage tracking logic
 - API-driven architecture
 - Backend data management system
+- Wallet system
+- role base access and admin
+- configuration
 
 **Tech Stack**
 
 Node.js • Express.js • MongoDB • REST APIs
 
 ---
-
-## 🧠 Technical Skills
+**https://sadiqsharpsub.com.ng**
+- code private but accessible on requeshttps 🧠 Technical Skills
 
 **Frontend**
 - HTML
